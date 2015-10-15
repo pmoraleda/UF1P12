@@ -1,0 +1,45 @@
+.boto{
+    background: #7f8c8d;
+    color: white;
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 0px 3px 0px #373c3c;
+}
+.boto span {
+    margin-right: 10px;
+    font-size: 1.25em;
+}
+.blue{
+    background-color: #3498db;
+    box-shadow: 0px 3px 0px #2980b9;
+}
+.verd{
+    background-color: limegreen;
+}
+.mitja{
+    width: 350px;
+}
+.gran{
+    width: 450px;   
+}
+.rodo{
+    border-radius: 10px;
+}
+.boto:hover{
+    box-shadow: 0px 0px 0px;    
+}
+.cuadrat{
+    width: 100px;
+    height: 100px;
+    border: 3px solid grey;
+    
+}
+.circular{
+    border-radius: 50%;
+    text-align: center;
+}
